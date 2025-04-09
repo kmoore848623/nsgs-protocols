@@ -1,4 +1,4 @@
-![ChatGPT Image Apr 9, 2025, 01_57_38 PM](https://github.com/user-attachments/assets/e7686537-3164-41b9-9b72-06aba88fb62c)
+![NSG_Wireshark_Thumbnail](https://github.com/user-attachments/assets/5af46e5b-061d-45b5-91d4-c3bc2bc10f2c)
 
 
 # Network Security Groups (NSGs) and Traffic Analysis with Wireshark in Azure
