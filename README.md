@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
-</p>
+![ChatGPT Image Apr 9, 2025, 01_57_38 PM](https://github.com/user-attachments/assets/e7686537-3164-41b9-9b72-06aba88fb62c)
+
 
 # Network Security Groups (NSGs) and Traffic Analysis with Wireshark in Azure
 
