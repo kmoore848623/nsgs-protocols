@@ -1,4 +1,6 @@
-![NSG_Wireshark_Thumbnail](https://github.com/user-attachments/assets/5af46e5b-061d-45b5-91d4-c3bc2bc10f2c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61c3f7cc-1321-435b-88a1-703696966107" alt="NSG_Wireshark_Thumbnail">
+</p>
 
 
 # Network Security Groups (NSGs) and Traffic Analysis with Wireshark in Azure
