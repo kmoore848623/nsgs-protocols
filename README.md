@@ -28,7 +28,7 @@ This project demonstrates how to inspect and control network traffic between Azu
 
 
 
-## 🔬 Summary of Actions & Observations
+## Deployment Steps & Observations
 
 ### Step 1: Initial VM Setup & ICMP Capture
 
